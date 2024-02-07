@@ -138,4 +138,4 @@ All of the environment variables/config properties could be found [here](https:/
 
 # Contributing
 
-Please refer to [contributing guide](https://docs.kafka-ui.provectus.io/development/contributing), we'll guide you from there.
+Please refer to [contributing guide](https://docs.kafka-ui.provectus.io/development/contributing), we'll guide you from there quickly.
